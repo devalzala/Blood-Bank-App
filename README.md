@@ -1,5 +1,13 @@
 # Blood-Bank-App
 
+<h2>Technology Stack</h2>
+<ul>
+  <li>Reactjs</li>
+  <li>Nodejs</li>
+  <li>Expressjs</li>
+  <li>MongoDB</li>
+</ul>
+
 <h1>Login Page</h1>
 
 ![LoginPage](https://github.com/devalzala/Blood-Bank-App/assets/84832101/4f79ed31-977f-4294-846c-ae1d7a8f797d)
